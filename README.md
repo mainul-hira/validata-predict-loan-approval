@@ -17,10 +17,10 @@ The project includes preprocessing, training, evaluation, hyperparameter tuning,
 project/
 │
 ├── data/
-│   ├── loan_approval.csv               # Original dataset (input)
-│   └── loan_approval_cleaned.csv       # Cleaned dataset (auto-generated)
+│   ├── loan_approval_dataset.csv               	 # Original dataset (input)
+│   └── preprocessed_loan_approval_dataset.csv       # Cleaned dataset (auto-generated)
 │
-├── loan_approval_knn_decision_tree.ipynb  
+├── predict_loan_approval.ipynb  
 ├── Loan Approval Prediction Report.pdf
 ├── README.md                                
 ```
